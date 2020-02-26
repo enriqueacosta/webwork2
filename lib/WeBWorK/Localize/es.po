@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: webwork2\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2020-02-23 04:34+0000\n"
+"PO-Revision-Date: 2020-02-26 02:59+0000\n"
 "Last-Translator: Enrique Acosta <enriqueacostajaramillo@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/webwork/webwork2/language/"
 "es/)\n"
@@ -507,18 +507,18 @@ msgstr ""
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:408
 msgid "Act as"
-msgstr ""
+msgstr "Actuar como"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Stats.pm:158
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Stats_old.pm:159
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/StudentProgress.pm:161
 msgid "Act as:"
-msgstr ""
+msgstr "Actuar como:"
 
 #. (HTML::Entities::encode_entities($eUserID)
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator.pm:983
 msgid "Acting as %1."
-msgstr ""
+msgstr "Actuando como %1"
 
 #. ($actionID)
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ProblemSetList2.pm:392
@@ -2081,7 +2081,7 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/ProblemSet.pm:359
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/ProblemSet.pm:454
 msgid "Download PDF or TeX Hardcopy for Current Set"
-msgstr "tr: Download PDF or TeX Hardcopy for Current Set"
+msgstr "Descargar el PDF o archivo TeX de esta tarea"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/ProblemSets.pm:325
 msgid "Download PDF or TeX Hardcopy for Selected Sets"
@@ -2343,7 +2343,7 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator.pm:1676
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator.pm:1700
 msgid "Email instructor"
-msgstr "E-mail del profesor"
+msgstr "Enviar un correo electrónico al instructor"
 
 #. (scalar(@{$self->{ra_send_to}})
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/SendMail.pm:524
@@ -3404,17 +3404,17 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/SetMaker.pm:1610
 #: /opt/webwork/webwork2/lib/WeBWorK/URLPath.pm:503
 msgid "Library Browser"
-msgstr "Explorador de bibliotecas"
+msgstr "Explorador de problemas"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator.pm:851
 #: /opt/webwork/webwork2/lib/WeBWorK/URLPath.pm:521
 msgid "Library Browser 2"
-msgstr ""
+msgstr "Explorador de problemas 2"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator.pm:853
 #: /opt/webwork/webwork2/lib/WeBWorK/URLPath.pm:530
 msgid "Library Browser 3"
-msgstr ""
+msgstr "Explorador de problemas 3"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/URLPath.pm:512
 msgid "Library Browser no js"
@@ -3959,7 +3959,7 @@ msgstr "tr: Note"
 #: /opt/webwork/pg/macros/problemRandomize.pl:382
 #: /opt/webwork/pg/macros/problemRandomize.pl:407
 msgid "Note:"
-msgstr ""
+msgstr "Nota:"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/GatewayQuiz.pm:2240
 msgid ""
@@ -4180,7 +4180,7 @@ msgstr ""
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Login.pm:254
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ProblemSetDetail.pm:837
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ProblemSetDetail2.pm:921
@@ -4189,7 +4189,7 @@ msgstr ""
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/CourseAdmin.pm:527
 msgid "Password:"
-msgstr ""
+msgstr "Contraseña:"
 
 #. ($studentUser, $setName, $prettyProblemNumber)
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ShowAnswers.pm:459
@@ -5619,17 +5619,17 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/URLPath.pm:758
 #: /opt/webwork/webwork2/lib/WeBWorK/URLPath.pm:767
 msgid "Student Progress"
-msgstr ""
+msgstr "Reportes de avance"
 
 #. ($self->{ce}->{courseName}, $self->{setName}, $self->formatDateTime($self->{set_due_date})
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/StudentProgress.pm:85
 msgid "Student Progress for %1 set %2. Closes %3"
-msgstr ""
+msgstr "Reporte de avance del estudiante %2 de %1. Cierra el %3"
 
 #. ($self->{ce}->{courseName}, $self->{studentName})
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/StudentProgress.pm:83
 msgid "Student Progress for %1 student %2"
-msgstr ""
+msgstr "Reporte de avance del estudiante %2 de %1"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Hardcopy.pm:581
 msgid "Student answers"
@@ -7014,6 +7014,9 @@ msgid ""
 "Use the interface below to quickly access commonly-used instructor tools, or "
 "select a tool from the list to the left."
 msgstr ""
+"Usa la interfaz que se muestra abajo para acceder rápidamente a herramientas "
+"de uso frecuente para el instructor o selecciona una herramienta de la lista "
+"a la izquierda."
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Feedback.pm:386
 msgid ""
@@ -7187,11 +7190,11 @@ msgstr "tr: View statistics by student"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/StudentProgress.pm:252
 msgid "View student progress by set"
-msgstr "tr: View student progress by set"
+msgstr "Ver reporte de avance de una tarea"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/StudentProgress.pm:256
 msgid "View student progress by student"
-msgstr "tr: View student progress by student"
+msgstr "Ver reporte de avance de un estudiante"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:376
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:377
@@ -7592,7 +7595,7 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Options.pm:179
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Options.pm:197
 msgid "You do not have permission to change email addresses."
-msgstr "Usted no tiene permiso para cambiar su dirección de correo."
+msgstr "No tienes permiso para cambiar direcciones de correo electrónico."
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Hardcopy.pm:163
 msgid "You do not have permission to change the hardcopy theme."
@@ -7601,7 +7604,7 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Options.pm:133
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Options.pm:155
 msgid "You do not have permission to change your password."
-msgstr "Usted no tiene permiso para cambiar su contraseña."
+msgstr "No tienes permiso para cambiar tu contraseña"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/FileManager.pm:495
 msgid "You do not have permission to edit this file."
@@ -7957,7 +7960,7 @@ msgstr ""
 #. ($testNounNum)
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/GatewayQuiz.pm:1867
 msgid "Your score on this %1 was NOT recorded."
-msgstr ""
+msgstr "Tu puntaje en este %1 NO se ha guardado."
 
 #. ($attemptScore,$totPossible)
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/GatewayQuiz.pm:1911
@@ -8008,7 +8011,7 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/GatewayQuiz.pm:1611
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/ProblemUtil/ProblemUtil.pm:305
 msgid "Your score was not recorded."
-msgstr ""
+msgstr "Tu puntaje NO se ha guardado."
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/GatewayQuiz.pm:1892
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/ProblemUtil/ProblemUtil.pm:290
@@ -8418,7 +8421,7 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:386
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:391
 msgid "for one <b>user</b>"
-msgstr ""
+msgstr "de un <b>usuario</b>"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ProblemSetList.pm:882
 msgid "for students"
@@ -8571,7 +8574,7 @@ msgstr ""
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:395
 msgid "new users"
-msgstr ""
+msgstr "nuevos usuarios"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/AchievementList.pm:519
 msgid "no achievements"
@@ -8726,7 +8729,7 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:386
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:388
 msgid "progress"
-msgstr ""
+msgstr "Reporte de avance"
 
 #. ($line)
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ProblemSetList2.pm:1971
@@ -9088,7 +9091,7 @@ msgstr ""
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:411
 msgid "your students"
-msgstr ""
+msgstr "a tus estudiantes"
 
 #
 #, fuzzy
@@ -9498,7 +9501,7 @@ msgstr "Viendo el archivo temporal"
 
 #, fuzzy
 #~ msgid "Password/Email"
-#~ msgstr "Nueva contraseña"
+#~ msgstr "Contraseña"
 
 #, fuzzy
 #~ msgid "Save Export"
