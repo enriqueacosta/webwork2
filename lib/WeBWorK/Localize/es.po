@@ -4,6 +4,8 @@
 #
 # Translators:
 # Enrique Acosta <enriqueacostajaramillo@gmail.com>, 2020
+# Andrés Forero <aguilulfo@gmail.com>, 2020
+# Jason Aubrey <aubreyja@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: webwork2\n"
