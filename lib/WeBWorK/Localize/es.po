@@ -2610,7 +2610,7 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/AchievementList.pm:887
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/UserList.pm:1092
 msgid "Export"
-msgstr "tr: Export"
+msgstr "Exportar"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/AchievementList.pm:940
 msgid "Export selected achievements."
@@ -3207,7 +3207,7 @@ msgstr ""
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ProblemSetList.pm:1238
 msgid "Import"
-msgstr "tr: Import"
+msgstr "Importar"
 
 #. (CGI::popup_menu(			-name => "action.import.source",			-values => [ "", $self->getAxpList()
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/AchievementList.pm:773
@@ -4499,7 +4499,7 @@ msgstr ""
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ProblemSetList2.pm:2840
 msgid "Publish"
-msgstr "tr: Publish"
+msgstr "Publicar"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Scoring.pm:34
 msgid "RECITATION"
@@ -9455,11 +9455,11 @@ msgstr "Viendo el archivo temporal"
 
 #, fuzzy
 #~ msgid "Delete "
-#~ msgstr "tr: Delete"
+#~ msgstr "Borrar"
 
 #, fuzzy
 #~ msgid "Export "
-#~ msgstr "tr: Export"
+#~ msgstr "Exportar"
 
 #, fuzzy
 #~ msgid "Add "
