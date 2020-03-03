@@ -1721,7 +1721,7 @@ msgstr ""
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/AddUsers.pm:170
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/Index.pm:396
 msgid "Create"
-msgstr "tr: Create"
+msgstr "Crear"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ShowAnswers.pm:439
 msgid "Create CSV"
