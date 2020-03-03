@@ -4987,7 +4987,7 @@ msgstr ""
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ProblemSetList2.pm:975
 msgid "Score which sets?"
-msgstr "tr: Score which sets?"
+msgstr "¿Calificar qué tareas?"
 
 #: /opt/webwork/webwork2/lib/WeBWorK/ContentGenerator/Instructor/ShowAnswers.pm:222
 msgid "Scores"
