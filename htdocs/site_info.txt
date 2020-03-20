@@ -3,13 +3,21 @@
   $webworkFiles{site_info} in localOverrides.conf.  This will prevent the file 
   from being overwritten when you switch branches or by upgrades.  
  -->
+<p>
+   Este es el servidor de WeBWork del Grupo LEMA (www.grupolema.org).  
+</p>
 
-Este es el servidor de WeBWork del Grupo LEMA (www.grupolema.org).  
+<p>
+   Estamos liderando la traducción de WeBWorK al español. En esta página puedes ver el estado actual de la tradución. 
+</p>
 
 
-Estamos liderando la traducción de WeBWorK al español. En esta página puedes ver el estado actual de la tradución. 
+<p>
+   Puedes ver la parte de esta traducción que ha sido incorporada al código fuente de WeBWorK ingresando como invitado a
+</p>
 
-
-En https://demo.webwork.rochester.edu/webwork2/spanish_language_course/ (ingresando como invitado) puedes ver la parte de esta traducción que ha sido incorporada al código fuente de WeBWorK. 
+<p>
+   <a href="https://demo.webwork.rochester.edu/webwork2/spanish_language_course/">https://demo.webwork.rochester.edu/webwork2/ spanish_language_course/</a>
+</p>
 
 
