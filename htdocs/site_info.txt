@@ -4,7 +4,7 @@
   from being overwritten when you switch branches or by upgrades.  
  -->
 <p>
-   Este es el servidor de WeBWork del Grupo LEMA (www.grupolema.org).  
+   Este es el servidor de WeBWork del Grupo LEMA (<a href="http://www.grupolema.org">www.grupolema.org</a>).  
 </p>
 
 <p>
