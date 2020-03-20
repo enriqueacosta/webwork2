@@ -4,6 +4,12 @@
   from being overwritten when you switch branches or by upgrades.  
  -->
 
-This file is at htdocs/site_info.txt.  Use it to display information for the entire WeBWorK site which will be viewed at login time.
+Este es el servidor de WeBWork del Grupo LEMA (www.grupolema.org).  
+
+
+Estamos liderando la traducción de WeBWorK al español. En esta página puedes ver el estado actual de la tradución. 
+
+
+En https://demo.webwork.rochester.edu/webwork2/spanish_language_course/ (ingresando como invitado) puedes ver la parte de esta traducción que ha sido incorporada al código fuente de WeBWorK. 
 
 
