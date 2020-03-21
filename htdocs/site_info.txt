@@ -8,11 +8,14 @@
 </p>
 
 <p>
-   Si quieres un curso de prueba, contactanos en grupolema@prontonmail.com
+   Si quieres un curso de prueba, llena el formulario en <a href="https://forms.gle/EcqDnFwFJq9aeZU48">https://forms.gle/EcqDnFwFJq9aeZU48</a>  y te contactaremos. 
+</p>
+<p>
+   ¿Tienes alguna duda? Escríbenos a grupolema@prontonmail.com
 </p>
 
 <p>
-   En el grupo LEMA estamos liderando la traducción de WeBWorK al español. En este servidor puedes utilizar WeBWorK con la última actualización de la traducción. Esta se encuentra incompleta, pero no falta mucho. Si quieres ayudar, contactanos vía email.
+   En el Grupo LEMA estamos liderando la traducción de WeBWorK al español. En este servidor puedes utilizar WeBWorK con la última actualización de la traducción. Esta se encuentra incompleta, pero no falta mucho. Si quieres ayudar, contactanos vía email.
 </p>
 
 <p>
