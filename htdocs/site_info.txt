@@ -4,16 +4,19 @@
   from being overwritten when you switch branches or by upgrades.  
  -->
 <p>
-   Este es el servidor de WeBWork del Grupo LEMA (<a href="http://www.grupolema.org">www.grupolema.org</a>).  
+   Este es el servidor de WeBWorK del Grupo LEMA (<a href="http://www.grupolema.org">www.grupolema.org</a>).  
 </p>
 
 <p>
-   Estamos liderando la traducción de WeBWorK al español. En esta página puedes ver el estado actual de la tradución. 
+   Si quieres un curso de prueba, contactanos en grupolema@prontonmail.com
 </p>
 
+<p>
+   En el grupo LEMA estamos liderando la traducción de WeBWorK al español. En este servidor puedes utilizar WeBWorK con la última actualización de la traducción. Esta se encuentra incompleta, pero no falta mucho. Si quieres ayudar, contactanos vía email.
+</p>
 
 <p>
-   Puedes ver la parte de esta traducción que ha sido incorporada al código fuente de WeBWorK ingresando como invitado a
+   Se puede ver la parte de la traducción que ha sido incorporada al código fuente oficial de WeBWorK ingresando como invitado a
 </p>
 
 <p>
